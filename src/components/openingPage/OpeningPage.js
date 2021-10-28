@@ -27,7 +27,7 @@ const OpeningPage = () => {
                     <p>Venus Ed. aims at providing educational resources for students, breaking geographical bounds, and providing world-class material for everyone.</p>
                 </div>
                 <div className='opening-page-top-image'>
-                <img src={require('/assets/top-img.jpeg')} />
+                <img src={topImg} alt='top-image' />
                 </div>
             </div>
             <div className='opening-page-why'>
