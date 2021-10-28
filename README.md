@@ -118,5 +118,6 @@ Your CNAME file should look like this:<br />
  
  
  Team Name - Venus
- Team members (developers) - Avinash, Rishabh and Khushboo
+ 
+Developers - Avinash, Rishabh and Khushboo
  
