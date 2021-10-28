@@ -22,18 +22,18 @@ const Header = () => {
             <div className={showMenu ? 'mobile-menu-options' : 'header-main'}  >
                 <div className='header-main-left'>
                     <div className='header-main-left-courses'>
-                        <NavLink exact activeClassName='active-menu' className='menu-option-options' to='/courses'>Courses</NavLink>
+                        <NavLink exact activeClassName='active-menu' className='menu-option-options' to='/VenusEdTech/courses'>Courses</NavLink>
                     </div>
                     <div className='header-main-left-search'>
                         <input type='search' placeholder='Search'></input>
                     </div>
                 </div>
                 <div className='header-main-logo'>
-                    <NavLink to='/'><img src={logo} alt='logo' /></NavLink>
+                    <NavLink to='/VenusEdTech/home'><img src={logo} alt='logo' /></NavLink>
                 </div>
                 <div className='header-main-right'>
                     <div className='header-main-right-item'>
-                        <p><NavLink exact activeClassName='active-menu' className='menu-option-options' to='/about'>About Us</NavLink></p>
+                        <p><NavLink exact activeClassName='active-menu' className='menu-option-options' to='/VenusEdTech/about'>About Us</NavLink></p>
                     </div>
                     
                     <div className='header-main-right-item'>
@@ -45,7 +45,7 @@ const Header = () => {
                 </div>
             </div>
             <div className='header-logo'>
-                <NavLink to='/'><img src={logo} alt='logo' /></NavLink>
+                <NavLink to='/VenusEdTech/home'><img src={logo} alt='logo' /></NavLink>
             </div>
             <div className='hamburger-menu'>
                 <a href='#' onClick={() => setShowMenu(!showMenu)}>

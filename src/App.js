@@ -14,10 +14,10 @@ function App() {
     <div className="App">
         <Header />
         <Switch>
-          <Route exact path='/' component={OpeningPage} />
+          <Route exact path='/VenusEdTech/' component={OpeningPage} />
           <Route exact path='/about' component={AboutUs} />
           <Route exact path='/courses' component={Courses} />
-          <Redirect to='/' />
+          <Redirect to='VenusEdTech/home' />
         </Switch>
         <Footer />
     </div>
