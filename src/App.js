@@ -17,7 +17,7 @@ function App() {
           <Route exact path='/VenusEdTech/' component={OpeningPage} />
           <Route exact path='/VenusEdTech/about' component={AboutUs} />
           <Route exact path='/VenusEdTech/courses' component={Courses} />
-          <Redirect to='/VenusEdTech/home' />
+          <Redirect to='/VenusEdTech/' />
         </Switch>
         <Footer />
     </div>
