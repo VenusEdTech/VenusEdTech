@@ -27,7 +27,7 @@ const OpeningPage = () => {
                     <p>Venus Ed. aims at providing educational resources for students, breaking geographical bounds, and providing world-class material for everyone.</p>
                 </div>
                 <div className='opening-page-top-image'>
-                    <img src='top-img.jpeg' alt='top-image' />
+                    <img src={top-img} alt='top-image' />
                 </div>
             </div>
             <div className='opening-page-why'>
@@ -35,7 +35,7 @@ const OpeningPage = () => {
                 <div className='image-carousel'>
                     <Carousel infiniteLoop={true} autoPlay={true} interval={3000} transitionTime={500} showArrows={true} showStatus={false} showThumbs={false} showIndicators={true}>
                         <div>
-                            <img src='1.jpeg' alt='carousel-1st-img' />
+                            <img src={one} alt='carousel-1st-img' />
                         </div>
                         <div>
                             <img src={two} alt='carousel-2nd-img' />
