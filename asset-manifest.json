@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VenusEdTech/VenusEdTech/static/css/main.05ffe23f.chunk.css",
-    "main.js": "/VenusEdTech/VenusEdTech/static/js/main.ab9258f3.chunk.js",
-    "main.js.map": "/VenusEdTech/VenusEdTech/static/js/main.ab9258f3.chunk.js.map",
+    "main.js": "/VenusEdTech/VenusEdTech/static/js/main.f83a3270.chunk.js",
+    "main.js.map": "/VenusEdTech/VenusEdTech/static/js/main.f83a3270.chunk.js.map",
     "runtime-main.js": "/VenusEdTech/VenusEdTech/static/js/runtime-main.941b9a49.js",
     "runtime-main.js.map": "/VenusEdTech/VenusEdTech/static/js/runtime-main.941b9a49.js.map",
     "static/css/2.ed1298f3.chunk.css": "/VenusEdTech/VenusEdTech/static/css/2.ed1298f3.chunk.css",
@@ -48,6 +48,6 @@
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.6b9937ca.chunk.js",
     "static/css/main.05ffe23f.chunk.css",
-    "static/js/main.ab9258f3.chunk.js"
+    "static/js/main.f83a3270.chunk.js"
   ]
 }
