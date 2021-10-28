@@ -15,9 +15,9 @@ function App() {
         <Header />
         <Switch>
           <Route exact path='/VenusEdTech/' component={OpeningPage} />
-          <Route exact path='/about' component={AboutUs} />
-          <Route exact path='/courses' component={Courses} />
-          <Redirect to='VenusEdTech/home' />
+          <Route exact path='/VenusEdTech/about' component={AboutUs} />
+          <Route exact path='/VenusEdTech/courses' component={Courses} />
+          <Redirect to='/VenusEdTech/home' />
         </Switch>
         <Footer />
     </div>
