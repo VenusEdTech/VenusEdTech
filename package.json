@@ -1,6 +1,6 @@
 {
   "name": "venus-ed",
-  "homepage": "https://github.com/VenusEdTech/VenusEdTech",
+   "homepage": "https://VenusEdTech.github.io/VenusEdTech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
