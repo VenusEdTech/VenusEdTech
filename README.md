@@ -115,3 +115,8 @@ You can configure a custom domain with GitHub Pages by adding a CNAME file to th
 Your CNAME file should look like this:<br />
  
  mywebsite.com
+ 
+ 
+ Team Name - Venus
+ Team members (developers) - Avinash, Rishabh and Khushboo
+ 
